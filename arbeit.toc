@@ -1,0 +1,48 @@
+\select@language {english}
+\select@language {english}
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{1}
+\contentsline {chapter}{\numberline {2}\IeC {\"U}berblick}{3}
+\contentsline {section}{\numberline {2.1}Einsatzm\IeC {\"o}glichkeiten}{3}
+\contentsline {section}{\numberline {2.2}Messdatenerfassung}{4}
+\contentsline {section}{\numberline {2.3}Messdatenspeicherung}{5}
+\contentsline {section}{\numberline {2.4}Messdatendarstellung}{6}
+\contentsline {section}{\numberline {2.5}Templates}{6}
+\contentsline {section}{\numberline {2.6}Benutzerverwaltung}{7}
+\contentsline {section}{\numberline {2.7}Plug-Ins}{7}
+\contentsline {section}{\numberline {2.8}System-Architektur}{7}
+\contentsline {chapter}{\numberline {3}Messdatenerfassung}{9}
+\contentsline {section}{\numberline {3.1}Abfrage Script-basierter Messwerte}{10}
+\contentsline {section}{\numberline {3.2}Abfrage SNMP-basierter Messwerte}{13}
+\contentsline {subsection}{\numberline {3.2.1}SNMP-Grundlagen}{13}
+\contentsline {subsection}{\numberline {3.2.2}Abfrage eines Managed-Objects}{17}
+\contentsline {subsection}{\numberline {3.2.3}Abfrage von Tabellen}{17}
+\contentsline {chapter}{\numberline {4}Messdatenspeicherung}{21}
+\contentsline {section}{\numberline {4.1}RRDTool-Grundlagen}{21}
+\contentsline {subsection}{\numberline {4.1.1}Data-Source}{23}
+\contentsline {subsection}{\numberline {4.1.2}Round-Robin-Archive}{24}
+\contentsline {section}{\numberline {4.2}Zusammenhang zwischen RRDTool und Cacti}{25}
+\contentsline {chapter}{\numberline {5}Messdatendarstellung}{27}
+\contentsline {section}{\numberline {5.1}Graph-Items}{28}
+\contentsline {section}{\numberline {5.2}Berechnungen mittels CDEF-Anweisungen}{28}
+\contentsline {chapter}{\numberline {6}Anwendungsbeispiel: Privater Homeserver}{31}
+\contentsline {section}{\numberline {6.1}Konfiguration des Homeservers}{31}
+\contentsline {section}{\numberline {6.2}Anwendungsbeispiele von Cacti}{32}
+\contentsline {subsection}{\numberline {6.2.1}Ventrilo: Aktuelle Teilnehmerzahl}{32}
+\contentsline {subsection}{\numberline {6.2.2}Verbrauch eines Verzeichnisses samt Unterverzeichnissen}{35}
+\contentsline {subsection}{\numberline {6.2.3}Apache2: Vollst\IeC {\"a}ndige Downloads}{36}
+\contentsline {subsection}{\numberline {6.2.4}OpenSSH: Z\IeC {\"a}hlen missgl\IeC {\"u}ckter Anmeldeversuche}{38}
+\contentsline {subsection}{\numberline {6.2.5}Firewall: Blockierte Eingangsversuche}{39}
+\contentsline {subsection}{\numberline {6.2.6}Apache2: Downloads-Messung unter Ber\IeC {\"u}cksichtigung alter Logdateien}{39}
+\contentsline {subsection}{\numberline {6.2.7}Jabberd2: Onlinestatus eines Accounts}{41}
+\contentsline {chapter}{\numberline {7}F\IeC {\"u}r Fortgeschrittene: Definieren von NET-SNMP Datenquellen}{45}
+\contentsline {section}{\numberline {7.1}Motivation}{45}
+\contentsline {section}{\numberline {7.2}Einordnung}{45}
+\contentsline {section}{\numberline {7.3}Einf\IeC {\"u}hrendes Beispiel}{46}
+\contentsline {section}{\numberline {7.4}Umriss des Grundaufbaus eines MIB-Modules}{47}
+\contentsline {section}{\numberline {7.5}Von der Anfrage bis zur Reaktion}{47}
+\contentsline {section}{\numberline {7.6}Kompilation und Ausf\IeC {\"u}hrung}{48}
+\contentsline {chapter}{\numberline {8}Zusammenfassung und Ausblick}{49}
+\contentsline {chapter}{\numberline {A}Grundaufbau eines MIB-Modules}{51}
+\contentsline {chapter}{\numberline {B}Literaturverzeichnis}{55}
+\contentsline {section}{Literatur}{55}

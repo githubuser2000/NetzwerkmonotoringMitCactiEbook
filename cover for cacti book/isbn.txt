@@ -1,0 +1,25 @@
+Zahlungsart
+
+Für die Zuteilung einer Einzel-ISBN berechnen wir 90,98 €, die sich zusammensetzen aus:
+ 
+
+    75,00 € Bearbeitungsgebühr
+    1,45 € Versandkosten
+    14,53 € Mehrwertsteuer
+
+Diese Gebühr ist im Voraus zu entrichten! Die Zuteilung der ISBN erfolgt erst nach Zahlungseingang.
+
+ 
+
+Überweisung
+Vorausrechnung
+
+
+Bitte überweisen Sie den Betrag an:
+MVB GmbH
+Frankfurter Sparkasse
+BLZ: 500 502 01
+Konto: 360163
+
+IBAN: DE67 5005 0201 0000 3601 63
+BIC: HELADEF1822

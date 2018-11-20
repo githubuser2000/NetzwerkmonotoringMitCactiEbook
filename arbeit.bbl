@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{RFC3410}
+J.~Case, R.~Mundy, D.~Partain, and B.~Stewart.
+\newblock {Introduction and Applicability Statements for Internet-Standard
+  Management Framework}.
+\newblock RFC 3410 (Informational), Dec. 2002.
+
+\bibitem{Conner11}
+J.~Conner.
+\newblock {Thold -- Threshold Alert Module}.
+\newblock \url{http://docs.cacti.net/plugin:thold}, 2011.
+\newblock [Online; accessed 16-Februar-2012].
+
+\bibitem{Mauro01}
+D.~Mauro and K.~Schmidt.
+\newblock {\em {Essential SNMP}}.
+\newblock O'Reilly Media, 2001.
+
+\bibitem{NetSNMP11}
+Net-SNMP.
+\newblock {Writing a MIB Module}.
+\newblock
+  \url{http://www.net-snmp.org/wiki/index.php/TUT:Writing_a_MIB_Module}, 2011.
+\newblock [Online; accessed 18-März-2012].
+
+\bibitem{Schilli04}
+M.~Schilli.
+\newblock {Messdaten mit RRDtool und Perl verwalten}.
+\newblock
+  \url{http://www.linux-magazin.de/layout/set/print/content/view/full/4996},
+  2004.
+\newblock [Online; accessed 16-Februar-2012].
+
+\bibitem{Cacti11}
+{The Cacti Group}.
+\newblock {Templates}.
+\newblock \url{http://docs.cacti.net/templates}, 2011.
+\newblock [Online; accessed 16-Februar-2012].
+
+\bibitem{Urban11}
+T.~Urban.
+\newblock {\em {Cacti 0.8 Beginner's Guide}}.
+\newblock PACKT Publishing, 2011.
+
+\end{thebibliography}
